@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherWidget</string>
+    <string name="realm_schema_version">1</string>
+    <string name="realmFileName">myapplication</string>
+</resources>
